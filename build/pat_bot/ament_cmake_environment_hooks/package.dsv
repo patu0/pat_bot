@@ -1,0 +1,4 @@
+source;share/pat_bot/local_setup.bash
+source;share/pat_bot/local_setup.dsv
+source;share/pat_bot/local_setup.sh
+source;share/pat_bot/local_setup.zsh

@@ -1,0 +1,6 @@
+Invoking command in '/home/pat/dev_ws/src/pat_bot/build/pat_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/pat/dev_ws/src/pat_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pat/dev_ws/src/pat_bot/install/pat_bot
+Invoked command in '/home/pat/dev_ws/src/pat_bot/build/pat_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/pat/dev_ws/src/pat_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pat/dev_ws/src/pat_bot/install/pat_bot
+Invoking command in '/home/pat/dev_ws/src/pat_bot/build/pat_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/pat/dev_ws/src/pat_bot/build/pat_bot -- -j4 -l4
+Invoked command in '/home/pat/dev_ws/src/pat_bot/build/pat_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/pat/dev_ws/src/pat_bot/build/pat_bot -- -j4 -l4
+Invoking command in '/home/pat/dev_ws/src/pat_bot/build/pat_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/pat/dev_ws/src/pat_bot/build/pat_bot
+Invoked command in '/home/pat/dev_ws/src/pat_bot/build/pat_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/pat/dev_ws/src/pat_bot/build/pat_bot

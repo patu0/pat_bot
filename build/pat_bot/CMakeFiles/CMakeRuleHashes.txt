@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+a51e780665a5a8f8f1da953a118bd15a CMakeFiles/pat_bot_uninstall
