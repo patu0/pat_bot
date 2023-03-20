@@ -4,5 +4,4 @@
     <!-- Example link -->
     <link name="base_link"></link>
     <xacro:include filename="robot_core.xacro" />
-
 </robot>
