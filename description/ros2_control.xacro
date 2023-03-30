@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+
     <ros2_control name="GazeboSystem" type="system">
         <hardware>
+            <!-- this is the hardware interface -->
             <plugin>gazebo_ros2_control/GazeboSystem</plugin>
         </hardware>
         <joint name="left_wheel_joint">
@@ -21,4 +23,11 @@
             <state_interface name="position"/>
         </joint>
     </ros2_control>
+
+    <gazebo>
+        <plugin name="gazebo_ros2_control" filename="libgazebo_ros2_control.so">
+            <parameters>$(find pat_bot)/config/my_controllers.yaml</parameters>
+        </plugin>
+    </gazebo>
+
 </robot>
