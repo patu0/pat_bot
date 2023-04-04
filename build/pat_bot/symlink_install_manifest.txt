@@ -1,8 +1,26 @@
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/config/drive_bot.rviz
 /home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/config/empty.yaml
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/config/gazebo_params.yaml
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/config/joystick.yaml
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/config/main.rviz
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/config/mapper_params_online_async.yaml
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/config/my_controllers.yaml
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/config/twist_mux.yaml
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/config/view_bot.rviz
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/description/camera.xacro
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/description/depth_camera.xacro
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/description/gazebo_control.xacro
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/description/inertial_macro.xacro
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/description/lidar.xacro
 /home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/description/robot.urdf.xacro
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/description/robot_core before gazebo.xacro
 /home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/description/robot_core.xacro
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/description/ros2_control.xacro
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/launch/joystick.launch.py
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/launch/launch_sim.launch.py
 /home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/launch/rsp.launch.py
 /home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/worlds/empty.world
+/home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/worlds/my_world.world
 /home/pat/dev_ws/src/pat_bot/install/pat_bot/share/ament_index/resource_index/package_run_dependencies/pat_bot
 /home/pat/dev_ws/src/pat_bot/install/pat_bot/share/ament_index/resource_index/parent_prefix_path/pat_bot
 /home/pat/dev_ws/src/pat_bot/install/pat_bot/share/pat_bot/environment/ament_prefix_path.sh
